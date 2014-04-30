@@ -1,6 +1,6 @@
 """
 It is a lot more fun if this data is personal to you. 
-Go to the training set data (metro_100_train) and clear out all the data. Keep the rows.
+Go to the training set data (metro_100_train) and clear out all the data. Keep the header row.
 Now, find 10 cities where you can say whether you would definitely want to live there (at least 3 cities)/definitely not want to live there (at least 3 cities). Try to find at least 10 overall. 
 If the city is somewhere you want to live, put a 1 in Column A.
 If the city is somewhere you do not live, put a 0 in Column A.
